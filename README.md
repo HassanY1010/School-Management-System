@@ -45,10 +45,16 @@ Graphical reports using Charts
 Send alerts to students and parents for important changes
 Use Laravel Echo + Pusher for real-time notifications
 
-🧰 Technologies Used
-Laravel 12 (PHP)
-Blade Templates
-Tailwind CSS
-MySQL
-Laravel Jetstream
-Laravel Echo + Pusher
+🔧 Technologies Used:
+
+Backend: Laravel 12 (PHP)
+
+Frontend: Blade Templates + Tailwind CSS
+
+Database: MySQL
+ش
+Authentication & Roles: Laravel Jetstream
+
+Real-time Notifications: Laravel Echo + Pusher
+
+File Upload & Reports: Laravel Storage + PDF/Excel Export
